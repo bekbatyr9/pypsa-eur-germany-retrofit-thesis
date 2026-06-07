@@ -89,7 +89,7 @@ capacity-expansion model.
 Clone the repo and open the notebook directly:
 
 ```bash
-git clone https://github.com/yourusername/germany-retrofit-thesis.git
+git clone https://github.com/bekbatyr9/germany-retrofit-thesis.git
 cd germany-retrofit-thesis
 jupyter notebook analysis/
 ```
@@ -124,5 +124,3 @@ pixi run snakemake -j4 solve_sector_networks \
    scenarios in the Network Development Plan
 
 ---
-
-## Citation
